@@ -21,7 +21,7 @@ A minimal, opinionated Arch Linux setup script for **Hyprland** with a focus on 
 ## 📂 Repository Structure
 
 ```
-hypr-rice/
+Hypr-Rice/
 │── install.sh          # main entrypoint script
 │── scripts/            # helper scripts (fonts, theming, etc.)
 │── configs/            # dotfiles/configs (hyprland, foot, zed, sddm…)
@@ -35,8 +35,8 @@ hypr-rice/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/youssefbnncr/hypr-rice.git
-cd hypr-rice
+git clone https://github.com/youssefbnncr/Hypr-Rice.git
+cd Hypr-Rice
 ```
 
 ### 2. Run the installer
